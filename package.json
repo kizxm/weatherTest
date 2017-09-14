@@ -1,7 +1,6 @@
 {
   "name": "weathertest",
   "version": "1.0.0",
-  "description": "",
   "main": "weather-interface.js",
   "dependencies": {},
   "devDependencies": {
@@ -30,5 +29,6 @@
     "test": "karma start karma.conf.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "description": ""
 }
